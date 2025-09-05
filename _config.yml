@@ -8,7 +8,7 @@ s# Welcome to Jekyll!
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Yuri Banens, PhD Candidate"
 title_separator          : "-"
 name                     : &name "Yuri Banens"
