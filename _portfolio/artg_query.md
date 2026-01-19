@@ -1,12 +1,12 @@
 ---
 title: "Querying the ARTG"
-excerpt: "The Therapeutic Goods Administration (TGA) provides a searchable view of the Australian Register of Therapeutic Goods (ARTG) at [https://compliance.health.gov.au/artg/](https://compliance.health.gov.au/artg/). It provides information on parmaceutical goods and medical devices, along with other smaller categories. Each entry includes information on the good's Global Medical Device Nomenclature (GMDN) number and description."
+excerpt: "The Therapeutic Goods Administration (TGA) provides a [searchable view](https://compliance.health.gov.au/artg/) of the Australian Register of Therapeutic Goods (ARTG). I used it to identify the number of pieces of complex medical equipment approved for supply in Australia."
 collection: portfolio
 ---
 
 ## Querying the ARTG
 
-The Therapeutic Goods Administration (TGA) provides a searchable view of the Australian Register of Therapeutic Goods (ARTG) at [https://compliance.health.gov.au/artg/](https://compliance.health.gov.au/artg/). It provides information on parmaceutical goods and medical devices, along with other smaller categories. Each entry includes information on the good's Global Medical Device Nomenclature (GMDN) number and description. 
+The Therapeutic Goods Administration (TGA) provides a [searchable view](https://compliance.health.gov.au/artg/) of the Australian Register of Therapeutic Goods (ARTG). It provides information on parmaceutical goods and medical devices, along with other smaller categories. Each entry includes information on the good's Global Medical Device Nomenclature (GMDN) number and description. 
 
 I sought to identify which medical devices constituted complex or capital medical equipment (see [this definition of 'medical equipment']([digitaledition.24x7mag.com/x7mag/diged/201906/index.html](https://digitaledition.24x7mag.com/x7mag/diged/201906/index.html)) by Wang). It was necessary to use GMDN descriptions, since there is no categorical way to identify them. Since there are over 7000 distinct GMDN codes in the ARTG, I used [Claude AI](https://claude.ai/) to speed the process of identification. 
 
