@@ -1,3 +1,9 @@
+---
+title: "Querying the ARTG"
+excerpt: "The Therapeutic Goods Administration (TGA) provides a searchable view of the Australian Register of Therapeutic Goods (ARTG) at [https://compliance.health.gov.au/artg/](https://compliance.health.gov.au/artg/). It provides information on parmaceutical goods and medical devices, along with other smaller categories. Each entry includes information on the good's Global Medical Device Nomenclature (GMDN) number and description."
+collection: portfolio
+---
+
 ## Querying the ARTG
 
 The Therapeutic Goods Administration (TGA) provides a searchable view of the Australian Register of Therapeutic Goods (ARTG) at [https://compliance.health.gov.au/artg/](https://compliance.health.gov.au/artg/). It provides information on parmaceutical goods and medical devices, along with other smaller categories. Each entry includes information on the good's Global Medical Device Nomenclature (GMDN) number and description. 
