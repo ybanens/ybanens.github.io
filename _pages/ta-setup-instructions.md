@@ -1,3 +1,12 @@
+---
+title: "Obsidian setup for thematic analysis"
+collection: talks
+type: "Workshop"
+permalink: /talks/resbaz-obsidian/setup
+venue: "QUT Kelvin Grove campus"
+date: 2026-06-23
+location: "Brisbane, Queensland, Australia"
+---
 
 > [!IMPORTANT]
 > Read this first! Your vault needs to have the right templates and plugins for coding to work.
