@@ -12,7 +12,9 @@ Thematic analysis has become a popular method in the humanities and other discip
 
 [Download the sample vault](https://github.com/ybanens/ybanens.github.io/raw/refs/heads/master/files/Thematic%20analysis%20-%20example%20vault.zip)
 
-Setup instructions are here: [Setup instructions](https://github.com/ybanens/ybanens.github.io/ta-setup-instructions.md)
+## You can check your setup before the session to save time
+
+The downloadable vault is already set up and ready to do. But if you want to either double-check that it's all working, or set up your own vault so you can learn how it all works, setup instructions are [here](https://ybanens.github.io/talks/resbaz-obsidian/setup)
 
 ---
 
