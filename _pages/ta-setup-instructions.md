@@ -107,7 +107,7 @@ sub-theme:
 ![[Semantic codes.base#Relevant codes]]
 ```
 
-The embedded Base (`![[Semantic codes.base#Relevant codes]]`) will display all code notes that link back to this theme note — giving you a live, filtered view of evidence for each theme.
+The embedded Base will display all code notes that link back to this theme note — giving you a live, filtered view of evidence for each theme.
 
 When saved, Auto Note Mover will move this note into `Themes/` automatically.
 
