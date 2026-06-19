@@ -9,6 +9,7 @@ location: "Brisbane, Queensland, Australia"
 ---
 
 > **Read this first!** Your vault needs to have the right templates and plugins for coding to work.
+{: .notice--warning}
 
 This guide walks through creating a fresh Obsidian vault that replicates the thematic analysis workspace used in this workshop — including folder structure, the Auto Note Mover plugin, two Bases, and the code and theme note templates.
 
@@ -48,8 +49,8 @@ Analysis/Transcripts/
 
 Go to **Settings** → **Core plugins** → enable **Templates** if it is not already on. Then set the template folder to `Templates`.
 
-> [!NOTE]
 > If you use the Templater community plugin instead, the process is the same but you set the folder under **Settings → Templater**.
+{: .notice--note}
 
 ### 3.1 Code Template
 
@@ -69,12 +70,14 @@ themes:
 ```
 
 
-> [!INFO] Switching to and from 'source mode'
+> **Switching to and from 'source mode'**
 > It will be easier to past in the properties above if you switch to 'source mode' temporarily. Click the ellipsis at the top right of your new note and select 'source mode', then paste the YAML code in. You can then select 'source mode' again and the YAML will display as Obsidian properties.
+{: .notice--info}
 
 
-> [!WARNING] YAML must start and end with `---`
+> **YAML must start and end with `---`**
 > If your properties aren't appearing properly, make sure you have included the three dashes (`---`) at the top and the bottom of the code block. Obsidian needs those to recognise it as YAML. If you're still having trouble, make sure the first set of dashes is at the first line of the note, under the title.
+{: .notice--warning}
 
 
 **Guide to template properties:**
@@ -122,8 +125,8 @@ Auto Note Mover automatically files new notes into the correct folder based on t
 1. Go to **Settings** → **Community plugins**.
 2. If prompted, click **Turn on community plugins** to disable restricted mode.
 
-> [!WARNING]
 > Obsidian enables restricted mode by default. You must turn it off to install community plugins.
+{: .notice--warning}
 
 3. Click **Browse** and search for **Auto Note Mover**.
 4. Click **Install**, then **Enable**.
@@ -147,8 +150,9 @@ Auto Note Mover automatically files new notes into the correct folder based on t
 
 Bases are Obsidian's built-in database views (available from Obsidian 1.8+). They query your vault's note properties to build dynamic tables.
 
-> [!WARNING] This is the slightly complex bit!
+> This is the slightly complex bit!
 > You'll have to follow the instructions carefully to make sure the bases and filters all work properly.
+{: .notice--warning}
 
 ### 5.1 Semantic Codes Base
 
@@ -157,16 +161,16 @@ Bases are Obsidian's built-in database views (available from Obsidian 1.8+). The
 3. **Create the main view:**
 	1. Click the `Filter` button
 	2. Click the triangle to expand `All views`
-	3. Next to `Where`, click `File` then `Has tag` then select `data/analysis/semanticcode` (the tag you created previously). ==You should see the template you created appear==. 
+	3. Next to `Where`, click `File` then `Has tag` then select `data/analysis/semanticcode` (the tag you created previously). <mark>You should see the template you created appear</mark>. 
 	4. Click `Add filter` (make sure you do it in `All views`, not `This view`)
-	5. Next to `Where`, click `File` then `Is not in folder` then select `Templates`. ==This excludes the template file from your list==.
+	5. Next to `Where`, click `File` then `Is not in folder` then select `Templates`. <mark>This excludes the template file from your list</mark>.
 	6. Click on the `View` dropdown, then click the arrow on the right to rename it. 
 	7. Rename the view to `All codes`.
 4. **Create the `Relevant codes` view:**
 	1. Click on the `View` dropdown and click `Add view`. 
 	2. Using the steps above, rename the view `Relevant codes`. 
 	3. Click `Filter`. 
-	4. Under `This view` (==not `All views`!==), click the `Advanced filter` button (it looks like `</>').
+	4. Under `This view` (<mark>not `All views`!</mark>), click the `Advanced filter` button (it looks like `</>').
 	5. Paste in the following: `file.hasLink(this.file)`.
 5. **Create the `Theme development` view:**
 	1. Click on the `View` dropdown and click `Add view`. 
@@ -182,8 +186,9 @@ Bases are Obsidian's built-in database views (available from Obsidian 1.8+). The
 | **Relevant codes**    | Codes that link to _this_ note — used when embedded inside a theme note |
 | **Theme development** | Flat list for working through code → theme relationships                |
 
-> [!NOTE] Note on the `Relevant codes` view
+> **Note on the `Relevant codes` view**
 > This view uses `file.hasLink(this.file)`, which means it only makes sense when the Base is _embedded inside another note_ (a theme note). When you open the Base directly, `this.file` has no referent, so the view will appear empty — that is expected behaviour.
+{: .notice--primary}
 
 ### 5.2 Semantic Themes Base
 
@@ -191,9 +196,9 @@ Bases are Obsidian's built-in database views (available from Obsidian 1.8+). The
 2. **Create the main view:**
 	1. Click the `Filter` button
 	2. Click the triangle to expand `All views`
-	3. Next to `Where`, click `File` then `Has tag` then select `data/analysis/theme` (). ==You should see the template you created appear==. 
+	3. Next to `Where`, click `File` then `Has tag` then select `data/analysis/theme` (). <mark>You should see the template you created appear</mark>. 
 	4. Click `Add filter` (make sure you do it in `All views`, not `This view`)
-	5. Next to `Where`, click `File` then `Is not in folder` then select `Templates`. ==This excludes the template file from your list==.
+	5. Next to `Where`, click `File` then `Is not in folder` then select `Templates`. <mark>This excludes the template file from your list</mark>.
 
 This gives you a simple table of all theme notes — useful for getting an overview of your emerging themes.
 
