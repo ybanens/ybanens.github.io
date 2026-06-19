@@ -4,12 +4,11 @@ collection: talks
 type: "Workshop"
 permalink: /talks/resbaz-obsidian/setup
 venue: "QUT Kelvin Grove campus"
-date: 2026-06-23
+date: 2026-06-25
 location: "Brisbane, Queensland, Australia"
 ---
 
-> [!IMPORTANT]
-> Read this first! Your vault needs to have the right templates and plugins for coding to work.
+> **Read this first!** Your vault needs to have the right templates and plugins for coding to work.
 
 This guide walks through creating a fresh Obsidian vault that replicates the thematic analysis workspace used in this workshop — including folder structure, the Auto Note Mover plugin, two Bases, and the code and theme note templates.
 
