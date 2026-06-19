@@ -10,7 +10,7 @@ location: "Brisbane, Queensland, Australia"
 
 ## Abstract
 
-Thematic analysis has become a popular method in the humanities and other disciplines. However, the process of extracting codes and developing themes can be confusing, tedious and time consuming. This workshop shows how to set up your [Obsidian](https://obsidian.md) workspace for thematic analysis, including creating the relevant bases and templates. It then goes through the process of coding a short piece of text to illustrate a suggested way to record text codes and themes. 
+Thematic analysis has become a popular method of qualitiative textual analysis in the humanities and other disciplines. However, the process of extracting codes and developing themes can be confusing, tedious and time consuming. This workshop shows how to set up your [Obsidian](https://obsidian.md) workspace for thematic analysis, including creating the relevant bases and templates. It then goes through the process of coding a short piece of text to illustrate a suggested way to record text codes and themes. 
 
 ## Resources
 
@@ -21,6 +21,18 @@ Then [download the sample vault](https://github.com/ybanens/ybanens.github.io/ra
 ## Check your setup before the session to save time
 
 The downloadable vault is already set up and ready to do. But if you want to either double-check that it's all working, or set up your own vault so you can learn how it all works, setup instructions are [here](https://ybanens.github.io/talks/resbaz-obsidian/setup)
+
+## Coding your first piece of text
+
+You can find instructions for creating your first thematic code here. 
+
+We will also go over this together in the workshop. 
+
+## Creating a theme out of codes
+
+Once you have a suffucuent number of codes, certain themes might start to emerge. It's time to create your first theme.
+
+We will also go over this together in the workshop.
 
 ---
 
