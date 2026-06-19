@@ -30,7 +30,7 @@ We will also go over this together in the workshop.
 
 ## Creating a theme out of codes
 
-Once you have a suffucuent number of codes, certain themes might start to emerge. It's time to create your first theme.
+Once you have a suffucuent number of codes, certain themes might start to emerge. It's time to [create your first theme](https://ybanens.github.io/talks/resbaz-obsidian/theme) 
 
 We will also go over this together in the workshop.
 
