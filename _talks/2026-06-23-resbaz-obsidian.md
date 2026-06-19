@@ -12,4 +12,8 @@ Thematic analysis has become a popular method in the humanities and other discip
 
 [Download the sample vault](https://github.com/ybanens/ybanens.github.io/raw/refs/heads/master/files/Thematic%20analysis%20-%20example%20vault.zip)
 
+Setup instructions are here: [Setup instructions](_pages/ta-setup-instructions.md)
+
+---
+
 [More information about ResBaz](https://ardc.edu.au/event/resbaz-queensland-2026/)
