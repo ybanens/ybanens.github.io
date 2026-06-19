@@ -24,7 +24,7 @@ The downloadable vault is already set up and ready to do. But if you want to eit
 
 ## Coding your first piece of text
 
-You can find instructions for creating your first thematic code here. 
+You can find instructions for creating your first thematic code [here](https://ybanens.github.io/talks/resbaz-obsidian/code) 
 
 We will also go over this together in the workshop. 
 
