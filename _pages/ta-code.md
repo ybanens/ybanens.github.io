@@ -57,7 +57,7 @@ Then, with it still selected, type `==` (that's the equals sign, twice). Two equ
 5. Click into the 'Extract' property and paste (e.g. with 'Ctrl+P') the snippet of text you copied earlier. If it has dropped out of your clipboard for any reason you can always go back to the text, select it and copy again. 
 6. Optionally, type something in the 'Context' property that will help you remember the context in which the quote was made. It should look like the below screenshot, but without the 'Themes' property filled in (you'll do that next).
 
-![[Creating a theme.png]]
+![Creating a theme.png](https://github.com/ybanens/ybanens.github.io/blob/master/files/Creating%20a%20footnote.png)
 
 > Ta-da!
 > You've done it! That's your first code! Now, just rinse and repeat with the next text snippet.
