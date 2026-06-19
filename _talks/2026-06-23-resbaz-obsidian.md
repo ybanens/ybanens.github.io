@@ -4,7 +4,7 @@ collection: talks
 type: "Workshop"
 permalink: /talks/resbaz-obsidian
 venue: "QUT Kelvin Grove campus"
-date: 2026-06-23
+date: 2026-06-25
 location: "Brisbane, Queensland, Australia"
 ---
 
