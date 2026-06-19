@@ -1,5 +1,5 @@
 ---
-title: "Obsidian setup for thematic analysis"
+title: "Create your first TA theme in Obsidian"
 collection: talks
 type: "Workshop"
 permalink: /talks/resbaz-obsidian/theme
