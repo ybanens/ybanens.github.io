@@ -8,9 +8,8 @@ date: 2026-06-25
 location: "Brisbane, Queensland, Australia"
 ---
 
-
-> [!IMPORTANT] 
 > Only read this after your vault is set up! Obviously you also need a note in `Transcripts` containing a text transcript you would like to work from.
+{: .notice--danger}
 
 ## 1. Select a piece of meaningful text
 
